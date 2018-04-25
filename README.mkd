@@ -24,6 +24,9 @@ To check script Signature
 1. Download files in folder where testNetwill be created.
 2. Edit File initial_producers.csv  with initial producer list
 3. Edit script initial data in SimpleEOS-BIOS.sh
+4. Install tools
+apt install csvtool
+apt install pwgen
 
 SNAPSHOT_URL="https://raw.githubusercontent.com/eosdac/airdrop/master/snapshots/snapshot_290.csv"
 
